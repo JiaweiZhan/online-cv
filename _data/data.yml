@@ -43,9 +43,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Physics and CS student & Incoming Ph.D. candidate at the University of Chicago (UChicago)
+    title: Incoming Ph.D. candidate @ UChicago
     summary: |
-      I’m fascinated by the efficiency of using computational technics to numerically simulate or predict materials’ properties. Also, I really enjoy implementing or developing new algorithms to break through restrictions that are ubiquitous in the computational physics’ field. After majoring in Physics at the University of Science and Technology of China, I’ve found that the combination of computational technics and physics is remarkably complex and rewarding because it requires extensively accurate insights of physical theory and huge courage of challenging computational limitations to imitate physical systems. My passion for this subject has led me to pursue further studies and ultimately, a career in computational physics. 
+      I’m fascinated by the efficiency of using computational technics 
+      to numerically simulate or predict materials’ properties. 
+      Also, I really enjoy implementing or developing new algorithms 
+      to break through restrictions that are ubiquitous in the computational physics’ field. 
+      My passion for this subject has led me to pursue further studies and ultimately, 
+      a career in computational physics. 
 education:
     - degree: MSc in Computer Science
       university: University of London
