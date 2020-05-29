@@ -126,7 +126,7 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: Ogre: A Python Package for Molecular Crystal Surface Generation with Applications to Surface Energy and Crystal Habit Prediction
+      - title: "Ogre: A Python Package for Molecular Crystal Surface Generation with Applications to Surface Energy and Crystal Habit Prediction"
         link: "#"
         authors: Shuyang Yang, Imanuel Bier, Wen Wen, Jiawei Zhan, Saeed Moayedpour, and Noa Marom
         conference: Journal of Chemical Physics (Accepted on May 28th, 2020)
