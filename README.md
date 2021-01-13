@@ -8,6 +8,7 @@
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
+
 <table>
   <tr>
     <th>Desktop</th>
